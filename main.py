@@ -1,7 +1,7 @@
 import json
 import math
 import os
-def __main__():
+def run():
     while 1:
         print("---------------------------")
         print("| Select your number      |")
@@ -191,4 +191,4 @@ def chemiCal():
 
 
 # Run 
-__main__()
+run()
